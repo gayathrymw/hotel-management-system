@@ -1,2 +1,11 @@
 # hotel-management-system
-created front end and back end files for a simple hotel management system using React.js and Node.js respectively.
+Created Frontend and Backend files for a simple hotel management system:
+
+Frontend (Client-side):
+Technology: React.js
+
+Backend (Server-side):
+Technology: Node.js with Express.js
+
+Database:
+Database Technology: MongoDB
